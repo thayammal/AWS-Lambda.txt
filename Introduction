@@ -1,0 +1,4 @@
+Lambda function has main handler function 
+We can connect with dynamodb from lambda function
+For that we need include bot03 (resource) library 
+Resource policy (input), service policy (output)
